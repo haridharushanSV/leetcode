@@ -12,7 +12,6 @@ class Solution {
 c++;
             }
         }
-        System.out.println(Arrays.toString(h1));
       return c;  
 }
     }
