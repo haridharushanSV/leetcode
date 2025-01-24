@@ -7,8 +7,8 @@ class Solution {
         for (int i=0;i<n;i++){
             a[i]=nums[i];
         }
-        for (int j=0;j<n;j++){
-            b[j]=nums[j+n];
+        for (int i=0;i<n;i++){
+            b[i]=nums[i+n];
         }
 System.out.println(Arrays.toString(b));
         for(int k=0;k<nums.length;k=k+2){
