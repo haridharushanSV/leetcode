@@ -1,6 +1,6 @@
 # 📌 LeetCode Profile
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/HaridharushanSV?theme=dark&font=Baloo&ext=heatmap)
 
 ## 🔥 About Me
 Hi there! I'm a passionate coder who loves solving challenging algorithmic problems. My main focus is improving problem-solving skills by tackling problems on LeetCode regularly.
