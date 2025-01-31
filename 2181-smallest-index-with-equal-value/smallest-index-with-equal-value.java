@@ -3,9 +3,9 @@ class Solution {
       int  result=-1;
         for(int i=0;i<nums.length;i++){
             if(i%10==nums[i]){
-            result=i;
-            break;}
+            return i;
+           }
         }
-    return result;
+    return -1;
     }
 }
