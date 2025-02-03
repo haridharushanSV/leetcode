@@ -16,6 +16,6 @@ class Solution {
                     row--;
             }
         }
-        return (row * n) + col;
+        return row * n + col;
     }
 }
