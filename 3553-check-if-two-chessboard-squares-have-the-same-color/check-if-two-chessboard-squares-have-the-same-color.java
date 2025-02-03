@@ -7,8 +7,7 @@ class Solution {
             if((a1%2==0 && b1%2==0 )|| (a1%2==1 && b1%2==1 )) {
                 return true;
             }
-else{
     return false;
-}
+
     }
 }
