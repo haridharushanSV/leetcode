@@ -8,7 +8,7 @@ class Solution {
             }
         }
         String[] ret = new String[ans.size()];
-       ret = ans.toArray(ret); 
-        return ret;
+       
+        return ans.toArray(ret);
     }
 }
