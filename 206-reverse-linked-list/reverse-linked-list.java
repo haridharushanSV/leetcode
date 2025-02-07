@@ -19,10 +19,10 @@ class Solution {
 			current = next; // b=next
 		}
 		head = prev;
-		while (head != null) {
+		// while (head != null) {
 		
-			head = head.next;
-		}
+		// 	head = head.next;
+		// }
 		//head = prev;
         return prev;
 	}
