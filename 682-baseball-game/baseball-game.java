@@ -34,10 +34,10 @@ class Solution {
             
         }
         System.out.println(st);
-         int sum = 0;
-        for (int score : st) {
-            sum += score;
+         int s = 0;
+        for (int k : st) {
+            s += k;
         }
-        return sum;
+        return s;
     }
 }
