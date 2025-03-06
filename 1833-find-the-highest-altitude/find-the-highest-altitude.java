@@ -11,7 +11,7 @@ class Solution {
         u++;
          h=Math.max(h,v);
        } 
-      // Arrays.sort(ar);
-       return h;
+       Arrays.sort(ar);
+       return ar[gain.length];
     }
 }
