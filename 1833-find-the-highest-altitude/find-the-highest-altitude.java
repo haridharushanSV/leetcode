@@ -9,7 +9,7 @@ class Solution {
         v+=gain[i];
         ar[u]=v;
         u++;
-         h=Math.max(h,v);
+        // h=Math.max(h,v);
        } 
        Arrays.sort(ar);
        return ar[gain.length];
