@@ -20,7 +20,7 @@ class Solution {
             
         
         }
-        String str=new String(sb.reverse());
-        return str;
+        //String str=new String(sb.reverse());
+        return sb.reverse().toString();
     }
 }
