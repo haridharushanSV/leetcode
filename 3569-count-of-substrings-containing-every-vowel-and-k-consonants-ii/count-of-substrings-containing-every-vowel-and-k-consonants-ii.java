@@ -31,9 +31,7 @@ class Solution {
         ++l;
       }
       if (uniqueVowels == 5) {
-        // Add substrings containing every vowel with at most k consonants to
-        // the answer. They are
-        // word[l..r], word[l + 1..r], ..., word[min(vowelLastSeen[vowel])..r]
+      
         final int minVowelLastSeen = Arrays.asList('a', 'e', 'i', 'o', 'u')
                                          .stream()
                                          .mapToInt(vowel -> vowelLastSeen.get(vowel))
