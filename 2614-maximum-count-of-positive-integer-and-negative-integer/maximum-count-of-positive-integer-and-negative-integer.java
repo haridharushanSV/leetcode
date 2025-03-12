@@ -9,7 +9,7 @@ class Solution {
                 neg++;
             } 
         }
-        int res;
+      
         if(pos>neg){
             return pos;
         }
